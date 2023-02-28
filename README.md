@@ -1,4 +1,4 @@
-# scratchpad-ideas
+# scratchpad-ideas🔮
 mostly unformatted open source brainstorms
 
 ## nestil, litsen, [other,..]
