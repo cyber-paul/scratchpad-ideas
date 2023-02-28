@@ -7,10 +7,9 @@ category: vulnerability scanning and attack prevention (ips)<br>
 specificity: "eavesdropping attacks"<br>
 purpose: to avoid single point of failure in vs/ips<br>
 expanded:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;*if there is failure of an attack prevention service at host level it can be assumed that clustering technology will allow for an alternate instance of the<br>
-&nbsp;&nbsp;&nbsp;&nbsp;service to coninue operating. what if the prevention system failed entirely across all new instances. would there be any potential improvement by isolating<br>
-&nbsp;&nbsp;&nbsp;&nbsp;various prevention services (ie:attacks on IoT smart assistants, listening attacks on any internet device with listening capable hardware/software, data<br>
-&nbsp;&nbsp;&nbsp;&nbsp;harvesting attacks, etc..)*<br>
+
+*<p>if there is failure of an attack prevention service at host level it can be assumed that clustering technology will allow for an alternate instance of the
+    service to coninue operating. what if the prevention system failed entirely across all new instances. would there be any potential improvement by isolating         various prevention services (ie:attacks on IoT smart assistants, listening attacks on any internet device with listening capable hardware/software, data             harvesting attacks, etc..)</p>*
   
   caveats:
   - is this goal already acheived somehow in the services architecture (have not looked in detail on these scanning & prevention solutions recently)
