@@ -6,8 +6,6 @@ mostly unformatted open source brainstorms🔮
 ## nestil, litsen, [other,..]
 
   <strong>any readers with knowledge and awareness of this goal already being acheived within existing technologies, please tell me! that is why i have shared my ~scratch~pad</strong> 
- 
-<hr>
 
 category: vulnerability scanning and attack prevention (ips)<br>
 specificity: "eavesdropping attacks"<br>
@@ -29,3 +27,6 @@ https://threatpost.com/bug-iot-millions-devices-attackers-eavesdrop/168729/<br>
 ### pre-requisite
 
 if aimed with specificity (home IoT devices for instance) it would require these home users/networks to implement scanning & prevention solutions. this is covered by my underlying project arguing for isp provided base security. in my ms final project i aim to suggest the practicality for isp's in partnership with open source security groups and government to deliver a reasonable baseline monitoring/alerting/prevention package included with all levels of internet service. paying for internet is a weak structure given our societial wealth distribution issues. as technology advances (especially in the open source ecosystem) we must not allow basic home security to come with such a price tag. 
+
+
+<hr>
