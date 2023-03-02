@@ -1,10 +1,13 @@
 # scratchpad-ideas
 mostly unformatted open source brainstorms🔮
 
+<hr>
+
 ## nestil, litsen, [other,..]
 
   <strong>any readers with knowledge and awareness of this goal already being acheived within existing technologies, please tell me! that is why i have shared my ~scratch~pad</strong> 
-  <hr>
+ 
+<hr>
 
 category: vulnerability scanning and attack prevention (ips)<br>
 specificity: "eavesdropping attacks"<br>
