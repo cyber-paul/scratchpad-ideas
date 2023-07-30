@@ -35,3 +35,11 @@ parallel to home IoT devices finding usefulness in the tool i also imagine usefu
 <hr>
 
 ## [Quantum Interface for message delivery in future Vehicle-to-Everything networks, other,..]
+
+<hr>
+<hr>
+
+## [Intelligent Street-Sweeping Robots...]
+
+I was thinking we should be close enough to developing and deploying robots to pick up litter. The idea sparked as I saw someone picking up trash on the side of the road during a bike ride. Often it seems this is done by juvenile deliquents or similar groups of individuals. I was imaging the possibility for robots to complete this task and the individuals traditionally completing this work would be re-skilled in maintenance of such robots. This would add to the individuals value in joining a future workforce that is engulfed in AI and robotics, generally. Furthermore, the robots could have enough vision capability (360 cameras, etc) to collect environmental variables that will be sent out to a central intelligence, my idea was a quantum ML supercomputer. This central intelligence would be analyzing the environmental data collected so as to determine potential improvements in infrastructure, transportation, and related topics for improved effeciency as well as more harmonious integration methods with the natural world.
+
